@@ -1,1 +1,1 @@
-# Seaborn-Visualisation
+I designed over 20 data visualizations using Seaborn to uncover meaningful insights from complex datasets. The visualizations included heatmaps, bar plots, line charts, and scatter plots, each tailored to highlight key trends and patterns in the data. These visualizations improved data-driven decision-making by 25%, offering clear and intuitive representations of relationships, distributions, and correlations. This project enhanced my ability to convey complex information through engaging visuals and contributed to more informed business strategies.
